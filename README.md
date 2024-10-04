@@ -10,7 +10,6 @@
 
 I am smart and ready to learn. Give me a try:
 📧 malgosia.judycka@gmail.com
-![SedihGIF](https://github.com/user-attachments/assets/af484a50-e969-4325-ba9b-a4c4e00e8fb8)
 Instagram: @mjudycka (Amateur photographer 📷)
 
 
