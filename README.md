@@ -10,7 +10,7 @@
 
 I am smart and ready to learn. Give me a try:
 📧 malgosia.judycka@gmail.com  
-(Amateur photographer 📷)  
+Amateur photographer 📷   
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mjudycka/)
 
