@@ -17,7 +17,7 @@ I am smart and ready to learn. Give me a try:
 
 
 
-<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 50%;"/>
+<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 50%;"/> <img src="[https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee](https://github.com/user-attachments/assets/a746bca0-8a70-4f65-bd19-f1323cf293b5)" alt="Alt text" style="width: 50%;"/>
 
 
 
