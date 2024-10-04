@@ -18,7 +18,7 @@ Amateur photographer 📷
 
 
 
-<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/>  Skills: Python, PyTorch, C++, NumPy, Pandas, Jupyter
+<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/>                Skills: Python, PyTorch, C++, NumPy, Pandas, Jupyter
 <br><br>
 <img src="https://github.com/user-attachments/assets/a85d90cc-d3dd-41b6-b479-67a802beffdd" alt="Alt text" style="width: 40%;"/>
 
