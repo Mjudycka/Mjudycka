@@ -17,12 +17,11 @@ Amateur photographer 📷
 ![_MG_3326](https://github.com/user-attachments/assets/5d9d93ac-c2f1-462e-a6d7-1a50f0f4d521)
 
 
-<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/> 
+
+<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/>  Skills: Python, PyTorch, C++, NumPy, Pandas, Jupyter
 <br><br>
 <img src="https://github.com/user-attachments/assets/a85d90cc-d3dd-41b6-b479-67a802beffdd" alt="Alt text" style="width: 40%;"/>
 
-<br><br>
-<img src="https://github.com/user-attachments/assets/5d9d93ac-c2f1-462e-a6d7-1a50f0f4d521" alt="Alt text" style="width: 40%;"/>
 
 
 
