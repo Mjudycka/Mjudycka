@@ -11,7 +11,8 @@
 I am smart and ready to learn. Give me a try:
 📧 malgosia.judycka@gmail.com
 Instagram: @mjudycka (Amateur photographer 📷)  
-[![Instagram](https://www.instagram.com/mjudycka/)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/mjudycka/)
+
 
 
 <img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 50%;"/>
