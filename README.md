@@ -12,7 +12,7 @@ I am smart and ready to learn. Give me a try:
 📧 malgosia.judycka@gmail.com
 Instagram: @mjudycka (Amateur photographer 📷)
 
-![Alt text](./Photos/blob/main/malgosia.JPG)
+
 
 
 
