@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-#### Nice to meet you. I am a Junior AI Engineer. 
+####<p align="center">Nice to meet you. I am a Junior AI Engineer. </p>
 
 🫀 Making Neural Networks for fun.  
 🔥 Passionate about machine learning, artificial intelligence and all related fields 🔥   
