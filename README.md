@@ -10,8 +10,8 @@ all related fields 🔥
 
 ###### 🔎 Looking for a junior position/internship related to AI.
 
-I am smart and ready to learn. Give me a try:
-📧 malgosia.judycka@gmail.com  
+<p align="center"> I am smart and ready to learn. Give me a try:
+📧 malgosia.judycka@gmail.com  </p> 
 <p align= "center"> Amateur photographer 📷   </p>  
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mjudycka/)
