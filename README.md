@@ -14,6 +14,8 @@
 <p align="center"> 🧠 Cognitive Science student 🧠</p>
 <p align="center"> 👩🏼‍🎓 (graduating in two years) 👩🏼‍🎓 </p>
 
+#### Courage, creativity, ambition, ability to cooperate and emotional intelligence are my strengths. 
+
 ###### 🔎 Looking for a junior position/internship related to AI.
 
 <p align="center"> I am smart and ready to learn. Give me a try:
