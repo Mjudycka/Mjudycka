@@ -2,11 +2,17 @@
 
 #### Nice to meet you. I am a Junior AI Engineer.
 
-<p align="center"> 🫀 Making Neural Networks for fun.  
-🔥 Passionate about machine learning,   artificial intelligence    
-and    
-all related fields 🔥     
-🧠 Cognitive Science student    (graduating in two years) 👩🏼‍🎓 </p>
+<p align="center"> 🫀 Making Neural Networks for fun. </p>
+
+<p align="center"> 🔥 Passionate about machine learning, </p>
+<p align="center"> artificial intelligence </p>
+
+<p align="center"> and  </p>
+
+<p align="center"> all related fields 🔥 </p>
+
+<p align="center"> 🧠 Cognitive Science student </p>
+<p align="center"> (graduating in two years) 👩🏼‍🎓 </p>
 
 ###### 🔎 Looking for a junior position/internship related to AI.
 
