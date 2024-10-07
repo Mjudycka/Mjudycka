@@ -11,8 +11,8 @@
 
 <p align="center"> all related fields 🔥 </p>
 
-<p align="center"> 🧠 Cognitive Science student </p>
-<p align="center"> (graduating in two years) 👩🏼‍🎓 </p>
+<p align="center"> 🧠 Cognitive Science student 🧠</p>
+<p align="center"> 👩🏼‍🎓 (graduating in two years) 👩🏼‍🎓 </p>
 
 ###### 🔎 Looking for a junior position/internship related to AI.
 
