@@ -22,7 +22,7 @@ all related fields 🔥
 
 ![_MG_3326](https://github.com/user-attachments/assets/5d9d93ac-c2f1-462e-a6d7-1a50f0f4d521)
 
-<img src="https://github.com/user-attachments/assets/a85d90cc-d3dd-41b6-b479-67a802beffdd" alt="Alt text"/>
+
 
 
 
