@@ -28,7 +28,9 @@ Amateur photographer 📷
 
 ## 🗻 SKILLS : Python, PyTorch, C++, NumPy, Pandas, Jupyter
 #### LANGUAGES: ☕ English C1 🍺 German A2 🍎 Polish native speaker
-###### learning Chinese in progress ![loading](https://github.com/user-attachments/assets/2ab296b8-4e68-4567-b8b1-021699c78495 =250x)
+###### learning Chinese in progress <img src="https://github.com/user-attachments/assets/2ab296b8-4e68-4567-b8b1-021699c78495" alt="loading" width="250"/>
+
+![loading](https://github.com/user-attachments/assets/4e57d87b-ed0c-45ec-bb52-55072dd1a042)
 
 
 
