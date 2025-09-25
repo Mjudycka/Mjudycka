@@ -1,8 +1,8 @@
-## Hi there! 👋
+#Malgorzata Judycka
 
-#### Nice to meet you. I am a Junior AI Engineer.
+#SKILLS: 
 
-<p align="center"> 🫀 Making Neural Networks for fun. </p>
+##<span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
 
 <p align="center"> 🔥 Passionate about machine learning, </p>
 <p align="center"> artificial intelligence </p>
