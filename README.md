@@ -1,7 +1,7 @@
 
 # SKILLS: 
 
-![tensorflow](https://img.shields.io/badge/tensorflow-keras-blue?style=for-the-badge&logoColor=%23000066&labelColor=%23000066&color=%23000080)![pytorch](https://img.shields.io/badge/pytorch-blue?style=for-the-badge&logoColor=%23000099&color=%23000099)
+![tensorflow](https://img.shields.io/badge/tensorflow-keras-blue?style=for-the-badge&logoColor=%23000066&labelColor=%23000066&color=%23000080)![pytorch](https://img.shields.io/badge/pytorch-blue?style=for-the-badge&logoColor=%23000099&logoSize=amd&color=%23000099)
 
  ![pytorch](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
 
