@@ -1,9 +1,8 @@
 
 # SKILLS: 
 ![Click Me](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
-<span style="background-color: #0078D4; color: white; padding: 8px 16px; border-radius: 5px; display: inline-block;">
-  Click Me
-</span>
+![ble](https://img.shields.io/badge/dynamic/yaml)
+
 
 Status: <span style="color: green;">✅ Active</span>
 
