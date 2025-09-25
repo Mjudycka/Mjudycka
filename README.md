@@ -1,5 +1,8 @@
 
 # SKILLS: 
+
+![tensorflow](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 ![tensorflow](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![keras](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![pytorch](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
 
 
