@@ -1,7 +1,6 @@
 
 # SKILLS: 
-# My Project
-<span style="color: #0066cc;">**Blue bold text**</span>
+![Click Me](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
 
 Status: <span style="color: green;">✅ Active</span>
 
