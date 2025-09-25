@@ -1,9 +1,9 @@
 
 # SKILLS: 
-![Blue Text](https://img.shields.io/badge/Tekst-niebieski-blue)
-![Static Badge](https://img.shields.io/badge/Status-Active-green)
-![Static Badge](https://img.shields.io/badge/Version-1.0.0-blue)
+# My Project
+<span style="color: #0066cc;">**Blue bold text**</span>
 
+Status: <span style="color: green;">✅ Active</span>
 
 <span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
 
