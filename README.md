@@ -8,6 +8,7 @@
 ![cloud](https://img.shields.io/badge/cloud_computing-purple?style=for-the-badge&logoColor=%23200040&logoSize=amd&color=%23200040)![regression](https://img.shields.io/badge/regression-purple?style=for-the-badge&logoColor=%23330066&logoSize=amd&color=%23330066)![clas](https://img.shields.io/badge/classification-purple?style=for-the-badge&logoColor=%23400080&logoSize=amd&color=%23400080)![supervised](https://img.shields.io/badge/supervised_learning-unsupervised%20learning-purple?style=for-the-badge&logoSize=amd&labelColor=%234C0099&color=%236000C0)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mjudycka/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
 
 <img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/> 
 
