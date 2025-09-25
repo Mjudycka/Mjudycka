@@ -1,8 +1,7 @@
-# Malgorzata Judycka
 
 # SKILLS: 
 
-## <span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
+<span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
 
 <p align="center"> 🔥 Passionate about machine learning, </p>
 <p align="center"> artificial intelligence </p>
