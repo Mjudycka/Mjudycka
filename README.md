@@ -1,9 +1,8 @@
 
 # SKILLS: 
 
-![tensorflow](https://img.shields.io/badge/tensorflow-keras-blue?style=for-the-badge&logoColor=%23000066&labelColor=%23000066&color=%23000080)![pytorch](https://img.shields.io/badge/pytorch-blue?style=for-the-badge&logoColor=%23000099&logoSize=amd&color=%23000099)![denoising](https://img.shields.io/badge/denoising_autoencoders-blue?style=for-the-badge&logoColor=%230000C0&logoSize=amd&color=%230000C0)
-
-  ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
+![tensorflow](https://img.shields.io/badge/tensorflow-keras-blue?style=for-the-badge&logoColor=%23000066&labelColor=%23000066&color=%23000080)![pytorch](https://img.shields.io/badge/pytorch-blue?style=for-the-badge&logoColor=%23000099&logoSize=amd&color=%23000099)![denoising](https://img.shields.io/badge/denoising_autoencoders-blue?style=for-the-badge&logoColor=%230000C0&logoSize=amd&color=%230000C0)![GANs]https://img.shields.io/badge/GANs-blue?style=for-the-badge&logoColor=%230000CC&logoSize=amd&color=%230000CC)![computer vision](https://img.shields.io/badge/computer_vision-blue?style=for-the-badge&logoColor=%230000FF&logoSize=amd&color=%230000FF
+)![scikit-learn](https://img.shields.io/badge/scikit_learn-blue?style=for-the-badge&logoColor=%230000B4&logoSize=amd&color=%230000B4)
 
 
 <p align="center"> 🔥 Passionate about machine learning, </p>
