@@ -1,6 +1,10 @@
 
 # SKILLS: 
 ![Blue Text](https://img.shields.io/badge/Tekst-niebieski-blue)
++ This text appears in green
+- This text appears in red
+! This text appears in orange
+# This text appears in gray
 
 
 <span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
