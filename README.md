@@ -11,7 +11,6 @@
 
 <img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/> 
 
-![_MG_3326](https://github.com/user-attachments/assets/5d9d93ac-c2f1-462e-a6d7-1a50f0f4d521)
 
 
 
