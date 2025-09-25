@@ -1,12 +1,7 @@
 
 # SKILLS: 
-![Click Me][plastic](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
+![tensorflow](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![keras](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![pytorch](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) 
 
-
-
-Status: <span style="color: green;">✅ Active</span>
-
-<span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
 
 <p align="center"> 🔥 Passionate about machine learning, </p>
 <p align="center"> artificial intelligence </p>
