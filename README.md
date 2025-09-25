@@ -1,6 +1,6 @@
 
 # SKILLS: 
-<span style="color:blue">Ten tekst będzie niebieski</span>
+![Blue Text](https://img.shields.io/badge/Tekst-niebieski-blue)
 
 
 <span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
