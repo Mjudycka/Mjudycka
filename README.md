@@ -1,6 +1,6 @@
 
 # SKILLS: 
-![tensorflow](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![keras](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![pytorch](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) 
+![tensorflow](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![keras](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![pytorch](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![denoising autoencoders](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![GANs](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![computer vision](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
 
 
 <p align="center"> 🔥 Passionate about machine learning, </p>
