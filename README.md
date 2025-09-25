@@ -1,7 +1,7 @@
 
 # SKILLS: 
-![Click Me](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
-![ble](https://img.shields.io/badge/dynamic/yaml)
+![Click Me][plastic](https://img.shields.io/badge/Click_Me-0078D4?style=for-the-badge)
+
 
 
 Status: <span style="color: green;">✅ Active</span>
