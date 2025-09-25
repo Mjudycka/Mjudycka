@@ -1,5 +1,6 @@
 
 # SKILLS: 
+<font color="#0066cc">This text is blue</font>
 
 <span style="color: #0066cc;">tensorflow keras pytorch denoising autoencoders GANs computer vision scikit-learn</span>
 
