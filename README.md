@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/małgorzata-j-6a1973200)
 
-<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/><img src="https://github.com/user-attachments/assets/0f703a13-a572-4405-a73e-57430bda4184" alt="Alt text" style="width: 40%;"/>  
+<img src="https://github.com/user-attachments/assets/c26fbea5-909b-491d-9ef5-792ec0dc08ee" alt="Alt text" style="width: 40%;"/><img src="https://github.com/user-attachments/assets/0f703a13-a572-4405-a73e-57430bda4184" alt="Alt text" style="width: 40%;"/><img src="https://github.com/user-attachments/assets/dba5af48-85eb-4408-a7dc-c3eae2fac1de" alt="Alt text" style="height: 40%;"/>    
 
 
 
