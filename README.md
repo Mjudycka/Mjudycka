@@ -11,8 +11,7 @@
 
 ## DATA ANALYSIS ❤️‍🔥
 
-![data](https://img.shields.io/badge/Data%20Collection-pink?style=for-the-badge&logoColor=%23FF00FF&color=%23FF00FF)![meow](https://img.shields.io/badge/Data%20Preparation-pink?style=for-the-badge&logoColor=%23FF00CC&color=%23FF00CC)![hau](https://img.shields.io/badge/Exploratory_Data_Analysis-pink?style=for-the-badge&logoColor=%23FF0099&color=%23FF0099)![iam](https://img.shields.io/badge/statistical_Analysis-pink?style=for-the-badge&logoColor=%23FF0066&color=%23FF0066)![just](https://img.shields.io/badge/data_visualization-pink?style=for-the-badge&logoColor=%23FF0033&color=%23FF0033)
-
+![data](https://img.shields.io/badge/Data%20Collection-pink?style=for-the-badge&logoColor=%23FF00FF&color=%23FF00FF)![meow](https://img.shields.io/badge/Data%20Preparation-pink?style=for-the-badge&logoColor=%23FF00CC&color=%23FF00CC)![hau](https://img.shields.io/badge/Exploratory_Data_Analysis-pink?style=for-the-badge&logoColor=%23FF0099&color=%23FF0099)![iam](https://img.shields.io/badge/statistical_Analysis-pink?style=for-the-badge&logoColor=%23FF0066&color=%23FF0066)
 
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/małgorzata-j-6a1973200)
